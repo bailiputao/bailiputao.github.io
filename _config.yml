@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiwen"
+title                    : "Name"
 title_separator          : "-"
-name                     : &name "Yiwen Tao"
+name                     : &name "Name lastname"
 description              : &description "personal description"
 url                      : https://bailiputao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiwen Tao"
+  name             : "Name"
   avatar           : "profile.png"
-  bio              : "Graduate student in Cultural studies at Queen's University"
-  location         : "Canada"
+  bio              : "Bio"
+  location         : "Place"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
